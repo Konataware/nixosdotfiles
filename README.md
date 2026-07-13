@@ -1,2 +1,2 @@
-# nixosdotfiles
-My i3 NixOS dotfiles
+# nixosconfig
+my configuration.nix dotfiles
